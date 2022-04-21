@@ -1,7 +1,7 @@
 site_name: obsidian-test
 
 theme:
-    name: 'hacker'
+    name: 'readthedocs'
     palette:
 
     # Light mode
