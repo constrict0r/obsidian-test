@@ -1,7 +1,7 @@
-site_name: obsidian-mkdocs template
+site_name: obsidian-test
 
 theme:
-    name: 'material'
+    name: 'hacker'
     palette:
 
     # Light mode
